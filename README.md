@@ -14,7 +14,8 @@ Support us [here](https://hackerlink.io/buidl/1606?roundProj=1184)
 
 # Releases and Changelog
 
-* `v0.1.0-pre-alpha-bsc` implement basic flow of one-way bridging from Ethereum mainnet (Rinkeby) to BSC (testnet)
+* `v0.1.0-pre-alpha-bsc` implement basic flow of one-way bridging from Ethereum mainnet (Rinkeby) to BSC (testnet) [Demo](https://youtu.be/pQbSB7JWahE)
+* `v0.1.1-pre-alpha-bsc-battleverse` bidirectional bridging from Ethereum mainnet (Rinkeby) to BSC (testnet) and back. Cross-chain play-and-earn with Battleverse [Demo](https://youtu.be/R3vM0xEpgGE)
 
 # Architecture
 
